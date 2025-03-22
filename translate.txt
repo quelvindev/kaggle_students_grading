@@ -1,0 +1,23 @@
+Student_ID 						Estudante_ID
+First_Name                  	Primeiro_Nome
+Last_Name 						Ultimo_Nome
+Email 							Email
+Gender 							Sexo
+Age  							Idade
+Departament						Departamento
+Attendance						Assiduidade
+Midterm_Score 					Pontuação_de_meio_período
+Final_Score						Pontuação_final
+Assignments_Avg 				Média_de_tarefas
+Quizzes_Avg						Média_de_questionários
+Participation_Score				Pontuação_de_participação
+Projects_Score					Pontuação_de_projetos
+Total_Score 					Pontuação_total
+Grade							Nota
+Study_Hours_per_Week			Horas_de_estudo_por_semana
+Extracurricular_Activities		Atividades_extracurriculares
+Internet_Access_at_Home			Acesso_à_internet_em_casa
+Parent_Educaton_Leve			Nível_de_educação_dos_pais
+Family_Income_Level 			Nível_de_renda_familiar
+Stress_Level(1-10)    			Nível_de_estresse (1-10)
+Sllep_hour_per_Nigth  			Hora_de_trabalho_por_noite
