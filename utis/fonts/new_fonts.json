@@ -1,0 +1,14 @@
+{
+	"name":"new_fonts",
+	"visualStyles":{
+		"*":{
+			"*":{
+				"*":[
+					{"fontFamily":"Montserrat"}
+				]
+			}
+		}
+
+	}
+
+}
